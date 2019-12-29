@@ -1,14 +1,8 @@
 /*gradeutil.cpp*/
 
-//
-// Prof. Joe Hummel
+// Author : Amratya Saraswat
+//  Assignment by Prof. Joe Hummel
 // U. of Illinois, Chicago
-// CS 341, Spring 2019
-// Project #02: GradeUtil API (Solution)
-//
-// Edited by Sean Deitz
-// for CS 341, Fall 2019
-// 
 
 #include <string>
 #include <sstream>
