@@ -9,3 +9,5 @@ This Application contains GradeUtil functions to work as part of a Grade Analysi
 4. List of courses by DFW rate 
 5. List of courses by percentage of B letter grades 
 6. List of courses by average GPA. 
+
+You can start the application by running makefile, after it compiles it will ask for the input file for the analysis, once you enter the .csv file it will give you brief analysis of the file given. You can get further detailed analysis using the 6 commands given above.
